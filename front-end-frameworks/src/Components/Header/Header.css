@@ -24,7 +24,8 @@
   cursor: pointer;
 }
 
-.navbar-cart {
+.navbar-cart,
+.navbar-search {
   display: flex;
   align-items: center;
 }
@@ -41,4 +42,10 @@
   font-size: 14px;
   background: red;
   color: white;
+}
+
+.navbar-search input {
+  padding: 10px;
+  border-radius: 5px;
+  width: 200px;
 }

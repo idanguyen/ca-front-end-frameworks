@@ -1,9 +1,9 @@
 import React from "react";
-import "./Navbar.css";
+import "./Header.css";
 import cart from "../Assets/cart.png";
 import { Link } from "react-router-dom";
 
-const Navbar = () => {
+const Header = () => {
   return (
     <div className="navbar">
       <div className="navbar-logo">
@@ -34,6 +34,9 @@ const Navbar = () => {
           </Link>{" "}
         </li>
       </ul>
+      <div className="navbar-search">
+        <input type="text" placeholder="Search"></input>
+      </div>
       <div className="navbar-cart">
         <Link to="/cart">
           <img src={cart} alt="white cart icon" />
@@ -44,4 +47,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Header;
