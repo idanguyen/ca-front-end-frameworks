@@ -2,7 +2,6 @@ import React from "react";
 import "./Header.css";
 import cart from "../Assets/cart.png";
 import { Link } from "react-router-dom";
-import styled from "styled-components";
 
 const Header = (items) => {
   return (
