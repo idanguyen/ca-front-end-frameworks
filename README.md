@@ -21,4 +21,4 @@ Autocomplete and lookahead does work for single items.
 ## NETLIFY
 
 HOSTED:
-https://main--indshop.netlify.app/
+[https://main--indshop.netlify.app/](https://ca-inshop.netlify.app/)
