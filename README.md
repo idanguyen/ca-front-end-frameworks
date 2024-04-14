@@ -18,7 +18,7 @@ If you remove all text then nothing changes, if you remove a letter, everything 
 Autocomplete and lookahead does work for single items.
 
 
-##
+## NETLIFY
 
 HOSTED:
 https://main--indshop.netlify.app/
