@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Checkout = ({ checkout }) => {
   useEffect(() => {
     checkout();
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   const Container = styled.div`
     text-align: center;

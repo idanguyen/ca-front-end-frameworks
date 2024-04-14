@@ -15,7 +15,7 @@ const Container = styled.div`
   min-height: 100vh;
 `;
 
-const Layout = ({}) => {
+const Layout = ({ _ }) => {
   const [items, setItems] = useState([]);
 
   const addItem = (product) => {
