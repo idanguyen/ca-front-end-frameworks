@@ -16,3 +16,9 @@ Special thanks to the class when I asked and looked for help on Discord and my f
 The search bar bugs when you press backspace, It does not fully reset as you type in your search into the bar. 
 If you remove all text then nothing changes, if you remove a letter, everything reappears.
 Autocomplete and lookahead does work for single items.
+
+
+##
+
+HOSTED:
+https://main--indshop.netlify.app/
