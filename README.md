@@ -3,7 +3,7 @@
 
 ## Description
 This is a project done to learn about react. This is my first ever React project, and it tries out different libraries as well as experimenting with layout.
-It uses an API from Noroff that displays items listed for auctions, where a user can bid on each item, as well as list items.
+It uses an API from Noroff that displays items listed for the store, where a user can purchase item.
 
 ## Built With
 
