@@ -1,5 +1,5 @@
 # IN-Shop
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](front-end-frameworks/src/Components/Assets/in-shop-img.jpg)
 
 ## Description
 This is a project done to learn about react. This is my first ever React project, and it tries out different libraries as well as experimenting with layout.
