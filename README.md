@@ -19,7 +19,7 @@ It uses an API from Noroff that displays items listed for auctions, where a user
 git clone https://github.com/idanguyen/ca-front-end-frameworks.git
 ```
 
-2. NAvigate to the folder:
+2. Navigate to the folder:
 
 ```
 cd front-end-frameworks
